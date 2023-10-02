@@ -35,7 +35,7 @@
   <url>http://www.mybatis.org</url>
 
   <scm>
-    <url>http://github.com/mybatis/jpetstore-6</url>
+    <url>http://github.com/mybatis/jpetstore</url>
     <connection>scm:git:ssh://github.com/RAJAMMA0808/jpetstore.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/mybatis/jpetstore.git</developerConnection>
     <tag>HEAD</tag>
@@ -46,7 +46,7 @@
   </issueManagement>
   <ciManagement>
     <system>GitHub Actions</system>
-    <url>https://github.com/mybatis/jpetstore-6/actions</url>
+    <url>https://github.com/mybatis/jpetstore/actions</url>
   </ciManagement>
   <distributionManagement>
     <site>
