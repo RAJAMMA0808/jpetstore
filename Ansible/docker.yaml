@@ -18,7 +18,7 @@
       community.docker.docker_login:
         registry_url: https://index.docker.io/v1/
         username: raji0808
-        password: dckr_pat_sRBBG8v4nNCH9u61gIO06whZbvM
+        password: dckr_pat_5csGOJ_ZG3XgPesm9gv0R4xaEFU
 
     - name: Push image
       command: docker push raji0808/jpetstore:latest
