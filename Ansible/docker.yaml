@@ -9,7 +9,7 @@
     - name: Build Docker Image
       command: docker build -t jpetstore .
       args:
-        chdir: /var/lib/jenkins/workspace/jpetstore@2/Ansible
+        chdir: /var/lib/jenkins/workspace/Ansible/
 
     - name: tag image
       command: docker tag jpetstore:latest raji0808/jpetstore:latest 
